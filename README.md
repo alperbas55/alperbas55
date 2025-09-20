@@ -5,7 +5,7 @@
 -  I’m looking to collaborate on small coding projects and beginner-friendly assignments.
 -  I’m looking for help with improving my programming skills and understanding software development concepts.
 -  Ask me about my experiences as a freshman at Bilkent University and my journey in computer engineering.
-- �How to reach me: alperbas50@gmail.com
+-  How to reach me: alperbas50@gmail.com
 -  Fun fact: I’m interested in penetration testing and network security.
 
 # About Me
